@@ -29,6 +29,7 @@ a.Add(121)
 print (a.get_result())
 b =Calculator()
 b.Add(44)
+b.Add(2)
 b.substract(55)
 print (b.get_result())
 
